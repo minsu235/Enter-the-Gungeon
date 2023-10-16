@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="CScriptMgr.h">
+      <Filter>ScriptMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameCameraScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CRoomScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CENVScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CBooklletScript.h">
+      <Filter>Scripts\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="CBulletKinScript.h">
+      <Filter>Scripts\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="CWizardScript.h">
+      <Filter>Scripts\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="CBulletKingScript.h">
+      <Filter>Scripts\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="CChestScript.h">
+      <Filter>Scripts\MapObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CDoorScript.h">
+      <Filter>Scripts\MapObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CGunnutScript.h">
+      <Filter>Scripts\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerArmScript.h">
+      <Filter>Scripts\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerScript.h">
+      <Filter>Scripts\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CBlankScript.h">
+      <Filter>Scripts\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CGunScript.h">
+      <Filter>Scripts\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CItemScript.h">
+      <Filter>Scripts\MapObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CShotgunBulletKinScript.h">
+      <Filter>Scripts\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="CBulletScript.h">
+      <Filter>Scripts\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonsterBulletScript.h">
+      <Filter>Scripts\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CWizardBulletScript.h">
+      <Filter>Scripts\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonsterGun.h">
+      <Filter>Scripts\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonsterArm.h">
+      <Filter>Scripts\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="CTableScript.h">
+      <Filter>Scripts\MapObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CWingScript.h">
+      <Filter>Scripts\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CWallScript.h">
+      <Filter>Scripts\MapObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CSpawnScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CShopItemScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CButtonScript.h">
+      <Filter>Scripts</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>Default</Filter>
+    </ClCompile>
+    <ClCompile Include="Script.cpp">
+      <Filter>Default</Filter>
+    </ClCompile>
+    <ClCompile Include="CScriptMgr.cpp">
+      <Filter>ScriptMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameCameraScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CRoomScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CEffectScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CENVScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CBooklletScript.cpp">
+      <Filter>Scripts\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="CBulletKinScript.cpp">
+      <Filter>Scripts\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="CWizardScript.cpp">
+      <Filter>Scripts\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="CBulletKingScript.cpp">
+      <Filter>Scripts\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="CChestScript.cpp">
+      <Filter>Scripts\MapObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CDoorScript.cpp">
+      <Filter>Scripts\MapObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CGunnutScript.cpp">
+      <Filter>Scripts\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerArmScript.cpp">
+      <Filter>Scripts\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerScript.cpp">
+      <Filter>Scripts\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CBlankScript.cpp">
+      <Filter>Scripts\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CGunScript.cpp">
+      <Filter>Scripts\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CItemScript.cpp">
+      <Filter>Scripts\MapObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CShotgunBulletKinScript.cpp">
+      <Filter>Scripts\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="CBulletScript.cpp">
+      <Filter>Scripts\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonsterBulletScript.cpp">
+      <Filter>Scripts\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CWizardBulletScript.cpp">
+      <Filter>Scripts\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonsterArm.cpp">
+      <Filter>Scripts\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonsterGun.cpp">
+      <Filter>Scripts\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="CTableScript.cpp">
+      <Filter>Scripts\MapObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CWingScript.cpp">
+      <Filter>Scripts\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CWallScript.cpp">
+      <Filter>Scripts\MapObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CSpawnScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CShopItemScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CButtonScript.cpp">
+      <Filter>Scripts</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Default">
+      <UniqueIdentifier>{b0910708-1a4a-423e-b8a8-1d692d75b983}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts">
+      <UniqueIdentifier>{6afeadb6-9e14-4880-b0d1-1570f2fe6fe0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ScriptMgr">
+      <UniqueIdentifier>{ea0d8f29-dc1e-45ce-8cb1-4e48a63c878a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\Monster">
+      <UniqueIdentifier>{9cff4f50-7f32-4f4f-ad09-9b6788322e43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\Player">
+      <UniqueIdentifier>{247f6b61-9a0a-4c34-bb77-638b128577ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\Boss">
+      <UniqueIdentifier>{df0da466-576a-4531-9355-b78077005047}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\MapObject">
+      <UniqueIdentifier>{ba1e538a-57e4-4433-9b7b-a18278eae72b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\Bullet">
+      <UniqueIdentifier>{89978b00-11d0-42d0-889b-91388c3a2741}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
